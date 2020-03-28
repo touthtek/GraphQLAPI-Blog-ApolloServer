@@ -1,0 +1,26 @@
+{
+  "name": "graphqlapi-blog-apolloserver",
+  "version": "1.0.0",
+  "description": "simple blog api using graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/touthtek/GraphQLAPI-Blog-ApolloServer.git"
+  },
+  "author": "Olu-johnson Oluwatosin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/touthtek/GraphQLAPI-Blog-ApolloServer/issues"
+  },
+  "homepage": "https://github.com/touthtek/GraphQLAPI-Blog-ApolloServer#readme",
+  "dependencies": {
+    "apollo-server": "^2.11.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.24.0",
+    "uuid": "^7.0.2"
+  }
+}
